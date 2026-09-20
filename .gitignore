@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+.vault-notes.md
+.vault-notes-archive/
+.env
+.env.*
+node_modules/
+dist/
+build/
