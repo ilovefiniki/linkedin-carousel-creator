@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 100 100" role="img" aria-labelledby="title">
+  <title id="title">ILF node mark in terracotta squircle</title>
+  <rect width="100" height="100" rx="23" fill="#CC7A3E"/>
+  <g fill="none" stroke="#FFF9F1" stroke-width="2.2" stroke-linecap="round">
+    <path d="M22 22H78M22 22V78M22 50H58"/>
+    <g stroke="none" fill="#FFF9F1">
+      <circle cx="22" cy="22" r="6"/>
+      <circle cx="78" cy="22" r="6"/>
+      <circle cx="22" cy="50" r="6"/>
+      <circle cx="58" cy="50" r="6"/>
+      <circle cx="22" cy="78" r="6"/>
+    </g>
+  </g>
+</svg>
